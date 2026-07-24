@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
     '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k',
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
-pub const RENDEZVOUS_SERVERS: &[&str] = &["cd4.feig43agr43grg2.top"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["cd4.feig42gg244gg3.top"];
 pub const RS_PUB_KEY: &str = "gRP1LZ3P4dMEatpfCA4qfNVTETTCmmn7cPkK+uX3HVk=";
 pub const RENDEZVOUS_PORT: i32 = 57896;
 pub const RELAY_PORT: i32 = 57897;
